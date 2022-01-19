@@ -9,7 +9,7 @@ $S_t$ : prix du dollar.
 # Pre-requis
 
 ## Prèliminaire
-1. [ ] Calcul des greques.
+1. [x] Calcul des greques.
 1. [ ] Calcul de la volatilité.
 
 ## Théorique et simulation 
